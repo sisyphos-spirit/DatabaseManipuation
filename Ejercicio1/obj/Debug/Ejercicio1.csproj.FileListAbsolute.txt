@@ -1,0 +1,14 @@
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\dam\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Manuel\source\repos\UT9TareaEntregable\Ejercicio1\obj\Debug\Ejercicio1.pdb
